@@ -1,0 +1,17 @@
+Examine code determine to refactor or not before adding new elements
+to the game
+
+Add a single alien to top-left corner with proper spacing
+
+Use spacing around the first alien and the overal screen to determine
+how many aliens will fit on the screen. Write a loop to create aliens to
+fil the upper portion of the screen
+
+Make the aliens move downward and across the screen until shot down,
+hits the ship or the ground. If ain alien hits the ship or the ground
+we destroy the ship and create a new ship
+
+Limit the number of ships the player has and end the game once the 
+number of allotment of ships have been reached.
+
+
